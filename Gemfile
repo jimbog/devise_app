@@ -21,3 +21,4 @@ group :doc do
 end
 
 gem 'devise'
+gem 'quiet_assets'
